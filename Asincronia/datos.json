@@ -1,0 +1,11 @@
+{
+"cadena": "Seba",
+"numero": "35",
+"booleano": "true",
+"arreglo": ["correr", "programar", "cocinar"],
+"objeto": {
+    "twitter": "@allendesebastian",
+    "email": "sebaallende91@gmail.com"
+},
+"nulo": "null"
+}
